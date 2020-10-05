@@ -86,7 +86,8 @@ Delete the .tar.gz file if you want to save disk space.
 ```sh
 git clone https:://github.com/yashodhagodage/Wijaya-Desktop-Application.git
 ```
-    
+### Installing Jasper iReport
+[iReport Installation](https://community.jaspersoft.com/wiki/installation-steps-installer-distribution)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
