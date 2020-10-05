@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](http://imgs-info.ru/2019/10/02/5.jpg)
+
 
 Wijaya Printers Desktop application was delopped to keep tracks of customers, Employees, Equipments etc..
 
